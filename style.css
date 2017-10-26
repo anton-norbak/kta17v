@@ -1,0 +1,27 @@
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	background-color:#0B3861;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+div {
+	background-color:#58D3F7;
+	text-align: center;
+	border: solid;
+}
+
+#gray {
+	filter: grayscale(100);
+}
+
+a img {
+	border:none;
+	border-radius: 50%;
+}
+
